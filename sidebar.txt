@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mgy:home|Door43 (mgy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mgy|d43-mgy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mgy/archive/master.zip|d43-mgy.zip]]
+
+**Recent Changes**
+{{changes>ns = mgy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mgy|Ethnologue data]]
+
